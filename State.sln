@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{04DD18B5-77CB-4725-A35A-DD02E9D11902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{285403AF-BF52-402B-9EAB-7CF5F33D6EB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{4BA6C84F-CDC7-4668-9BAA-179604FE60D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04DD18B5-77CB-4725-A35A-DD02E9D11902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DD18B5-77CB-4725-A35A-DD02E9D11902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DD18B5-77CB-4725-A35A-DD02E9D11902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DD18B5-77CB-4725-A35A-DD02E9D11902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{285403AF-BF52-402B-9EAB-7CF5F33D6EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285403AF-BF52-402B-9EAB-7CF5F33D6EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285403AF-BF52-402B-9EAB-7CF5F33D6EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285403AF-BF52-402B-9EAB-7CF5F33D6EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA6C84F-CDC7-4668-9BAA-179604FE60D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA6C84F-CDC7-4668-9BAA-179604FE60D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA6C84F-CDC7-4668-9BAA-179604FE60D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA6C84F-CDC7-4668-9BAA-179604FE60D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53B91208-4A4F-4510-BE16-F1D4FEA98C58}
+	EndGlobalSection
+EndGlobal
